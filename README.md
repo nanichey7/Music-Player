@@ -35,9 +35,11 @@ You need to have a code editor installed, such as VSCode.
    ```
 
 2. Open the project folder
+   ```
    cd Music-Player
+   ```
 
-3. Open the index.html file in your preferred browser.
+4. Open the index.html file in your preferred browser.
 
 ### Project Structure
 
