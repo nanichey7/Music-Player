@@ -42,6 +42,7 @@ You need to have a code editor installed, such as VSCode.
 ### Project Structure
 
 Music-Player/
+
 ├── covers/ # Cover images for songs
 
 ├── songs/ # Audio files for songs
