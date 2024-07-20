@@ -43,8 +43,13 @@ You need to have a code editor installed, such as VSCode.
 
 Music-Player/
 ├── covers/ # Cover images for songs
+
 ├── songs/ # Audio files for songs
+
 ├── index.html # Main HTML file
+
 ├── style.css # CSS file for styling
+
 ├── script.js # JavaScript file for functionality
+
 ├── README.md # Readme file
