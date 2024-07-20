@@ -45,8 +45,7 @@ You need to have a code editor installed, such as VSCode.
 
 Music-Player/
 
-├── covers/ # Cover images for songs
-
+├── covers/ # Cover images for songs<br>
 ├── songs/ # Audio files for songs
 
 ├── index.html # Main HTML file
@@ -56,3 +55,6 @@ Music-Player/
 ├── script.js # JavaScript file for functionality
 
 ├── README.md # Readme file
+
+![image](https://github.com/user-attachments/assets/47b3500f-5ee3-4e28-b304-a4abc927ad2b)
+
