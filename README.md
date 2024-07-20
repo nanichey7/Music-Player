@@ -30,7 +30,7 @@ You need to have a code editor installed, such as VSCode.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/your-username/spotify-clone.git
+   git clone https://github.com/nanichey7/Music-Player.git
 
    ```
 
